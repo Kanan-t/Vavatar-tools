@@ -1,0 +1,27 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "vavatar_tools",
+      "name": "VAvatar Tools (Shape Key + Bake)",
+      "tagline": "ARKit and MMD shape keys, L/R split, and auto emit-bake",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Kanan-t",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/Kanan-t/avatar-tools",
+      "permissions": {
+        "network": "Check the update repository for a newer version",
+        "files": "Save baked textures and generated files to disk"
+      },
+      "archive_url": "./vavatar_tools-1.0.0.zip",
+      "archive_size": 11176,
+      "archive_hash": "sha256:563675191ed5dc8fa6b66c64cda71ea1d78ace3efd143d13e7557868ec208cd3"
+    }
+  ]
+}
